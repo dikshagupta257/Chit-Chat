@@ -1,5 +1,5 @@
 # Chit-Chat
-Chit Chat is a chatting android application that aims to allow users be able to the chat with each other.The users will be able to chat with each other , most likely only from user to user. The main motive to build a chatting application is to provide an ease to use the software for communication in the effective manner. Nowadays, people are busy in day-to-daily life ,so they are not getting that much time to meet with the friends and relatives to overcome this communication gap this application acts as an intermediate.<br/><br/>
+Chit Chat is a chatting android application that aims to allow users be able to chat with each other.The users will be able to chat with each other , most likely only from user to user. The main motive to build a chatting application is to provide an ease to use the software for communication in the effective manner. Nowadays, people are busy in day-to-daily life ,so they are not getting that much time to meet with the friends and relatives to overcome this communication gap this application acts as an intermediate.<br/><br/>
 The application contains following in-built features-<br/>
 •	The user shall sign-up with his phone number and OTP when the application is downloaded for the first time.<br/>
 •	The user shall choose an image for his profile photo and his name.<br/>
