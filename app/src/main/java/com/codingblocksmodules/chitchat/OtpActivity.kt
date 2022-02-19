@@ -100,7 +100,7 @@ class OtpActivity : AppCompatActivity(), View.OnClickListener {
 
                 val smsCode = credential.smsCode
                 if(!(smsCode.isNullOrBlank())){
-                    binding.sentcodeEt.setText(smsCode)
+                    binding.sentCodeEt.setText(smsCode)
                 }
                 signInWithPhoneAuthCredential(credential)
             }
@@ -223,7 +223,7 @@ class OtpActivity : AppCompatActivity(), View.OnClickListener {
     override fun onClick(p0: View?) {
         when(p0){
             binding.verificationBtn ->{
-                var code = binding.sentcodeEt.text.toString()
+                var code = binding.sentCodeEt.text.toString()
                 if(code.isNotEmpty()&&!mVerificationId.isNullOrEmpty()){
 
                     progressDialog = createProgressDialog("Please wait.", false)

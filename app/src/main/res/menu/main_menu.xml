@@ -2,14 +2,15 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/history"
+        android:id="@+id/logout"
         app:showAsAction="never"
-        android:title="Settings" />
+        android:title="Log Out" />
 
     <item
         android:id="@+id/search"
         android:icon="@android:drawable/ic_menu_search"
         app:actionViewClass="androidx.appcompat.widget.SearchView"
         app:showAsAction="ifRoom|collapseActionView"
+        android:iconTint="@color/white"
         android:title="Search" />
 </menu>
