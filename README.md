@@ -7,3 +7,13 @@ The application contains following in-built features-<br/>
 •	If the user is registered his information details will be stored in database forever and he can open the app without logging in again.<br/>
 •	User can also like a message by double tapping that certain message or clicking on the like icon on message.<br/>
 •	Support for sending emoji’s is also provided in the application.<br/>
+
+Login Activity | OTP Verification | Edit Profile |List of users in application 
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src = "https://user-images.githubusercontent.com/88535191/154797914-2e92b19c-6378-4e52-8c5b-b56f7929eb34.png" width = "250" height = "500"> | <img src = "https://user-images.githubusercontent.com/88535191/154797929-83ccd826-bffc-4807-bc4c-7044bab9d1a9.png" width = "250" height = "500"> | <img src = "https://user-images.githubusercontent.com/88535191/154797934-c5d81395-c021-42f7-a1d3-cd4591acc426.png" width = "250" height = "500"> | <img src = "https://user-images.githubusercontent.com/88535191/154797947-56bb039d-632f-4d35-92ed-c7b98805ff2a.png" width = "250" height = "500">
+
+<br><br>
+
+Chat Activity of both users| Chat with Emoji Support 
+:-------------------------:|:-------------------------:
+<img src = "https://user-images.githubusercontent.com/88535191/154797963-2db682ae-744f-429f-8838-066c6f47e0b6.png" width = "250" height = "500">  <img src = "https://user-images.githubusercontent.com/88535191/154797968-9ea1fd6c-d764-4695-891b-a0ee1bc67f34.png" width = "250" height = "500"> | <img src = "https://user-images.githubusercontent.com/88535191/154797982-52724145-2412-4602-bba1-9fbdf00c6dda.png" width = "250" height = "500"> 
